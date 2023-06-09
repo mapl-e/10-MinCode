@@ -1,19 +1,13 @@
 # 10-MinCode
-The name says it all.
 
+The name says it all, folks!
 
-Okay, First thing I made was a Fahrenheit to Celcius calculator and vice-versa.
-I went over the time by 22 Seconds. Meaning that it took me 10 Minutes and 22 Seconds.
+Alright, so the first thing I did was doing a calculator to convert Fahrenheit to Celsius and vice-versa. Gotta admit, I took a bit longer than expected, going over by 22 seconds. Ended up taking me a total of 10 minutes and 22 seconds.
 
-It was coded in Lua and I do feel ashamed of taking more that the limit, since Lua is such a simple Language and I thought I had some quick thinking abilities.
-Well the more you learn the better, now I know, I gotta start getting better into thinking faster and managing time properly.
+Gotta say, I felt a guilty for going over the time limit, especially considering that Lua is supposed to be a easy. Gotta work on thinking fast and managing my time better ig.
 
+Here's what I've managed to do so far:
 
-# Ill continue tomorrow with Python.
-# This Repo was a made as a way into making my quick coding abilities better.
+- Built a F° to C° Calculator.
 
-
-
-
-
-# Thank you for reading till the end... goobyeeeeeee :)
+Wish you a good sleep lol.
