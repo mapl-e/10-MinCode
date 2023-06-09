@@ -1,6 +1,6 @@
 # 10-MinCode
 
-The name says it all, folks!
+The name says it all
 
 Alright, so the first thing I did was doing a calculator to convert Fahrenheit to Celsius and vice-versa. Gotta admit, I took a bit longer than expected, going over by 22 seconds. Ended up taking me a total of 10 minutes and 22 seconds.
 
